@@ -1,0 +1,147 @@
+.words{
+    display: contents;
+        margin-bottom: 100px;
+    
+   }
+
+   .word{
+    display: flex;
+    margin-bottom:10%;
+
+    margin-right: 50px;
+}
+#ma{
+    margin-right: 50px;
+    width: 65%;
+}
+
+
+
+
+
+
+
+li{
+    float: left;
+    display: flex;
+    padding: 30px;
+}
+#dec{
+    font-style: oblique;
+}
+
+
+#change{
+    font-family: cursive ;
+
+}.body{
+   padding: 100px
+
+}
+
+.ma{
+    width: 70%;
+    margin-left: 50%;
+    margin-right: 100px;
+    padding-right: 90%;
+}
+.con{
+    display: flex; 
+}
+button{
+    border-radius: 35%;
+     padding: 15px;
+    margin: 30px;}
+
+
+   
+
+#space{
+    width: 25%;
+    display: flex;
+}
+#space1{
+    width: 20%;
+    display: flex;
+}
+#space2{
+    width: 20%;
+}
+#space3{
+    width: 20%;
+}
+.damn{
+    display: flex;
+    padding-bottom:100px;
+}
+#space3{
+    width: 70%;
+}
+#space4{
+    width: 70%;
+  
+}
+.man{
+    display:flex ;
+}
+#space5{
+    width: 40%;
+
+}
+#space6{
+    width: 30%;
+    float: right;
+     ;
+}
+#space7{
+    width: 30%;
+    float: right;
+    margin-top:;
+    
+    
+    
+}
+#space8{
+    width: 80%;
+   margin-left: 300px;
+
+}
+.me{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom:100px ;
+    padding-bottom: 70px ;
+}
+
+
+.contan{
+  
+    display: flex;
+    gap: 5%;
+    background: #212529;
+    color: antiquewhite;
+    padding-left: 10px;
+  
+    
+  }
+#item{
+    margin-left: 5px;
+    padding: 20px;
+}
+.tams{
+    font-style:italic ;
+    background: #212529;
+    color: antiquewhite;
+ 
+}
+#cala{
+    background-color: aliceblue;
+}
+.note{
+padding-top: 30px;
+    margin-top: 100px;
+    font-style: oblique;
+    display: block;
+}
+
+
